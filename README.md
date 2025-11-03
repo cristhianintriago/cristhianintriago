@@ -28,18 +28,8 @@
 ---
 
 ### 🚧 Proyectos en construcción
-- 🧮 **Calculadora Matrix** – app educativa para practicar álgebra lineal  
+- 🧮 **Calculadora** – app educativa para practicar álgebra lineal  
 - 🌐 **Mi Portafolio Web** – sitio personal hecho con HTML, CSS y un toque de JavaScript  
-- 📱 **Taskify** – app de tareas en desarrollo (porque los post-its ya no bastan)
-
----
-
-### 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristhianintriago&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianintriago&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -47,13 +37,10 @@
 > “El código perfecto no existe, pero intentarlo es parte de la diversión.”
 
 Cuando no estoy programando:
-- 🎮 Juego algo de videojuegos (y a veces rompo mis propios scripts 🙃)  
-- ☕ Me alimento a base de café y curiosidad  
-- 📚 Estudio cálculo y estructuras de datos para mejorar día a día  
-
+- 🎮 Juego videojuegos   
 ---
 
 <p align="center">
   🌟 “Aprendiendo a programar, una línea de código a la vez.” 🌟
 </p>
-![Coding](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
