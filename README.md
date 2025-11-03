@@ -56,3 +56,4 @@ Cuando no estoy programando:
 <p align="center">
   🌟 “Aprendiendo a programar, una línea de código a la vez.” 🌟
 </p>
+![Coding](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
