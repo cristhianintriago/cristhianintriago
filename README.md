@@ -1,46 +1,49 @@
-<h1 align="center">👋 ¡Hola, soy Cristhian Intriago!</h1>
+<h1 align="center">👋 Hi, I'm Cristhian Intriago!</h1>
 
 <p align="center">
-  💻 Estudiante de <b>Ingeniería en Desarrollo de Software</b><br>
-  🚀 Aprendiendo a convertir café ☕ en código limpio<br>
-  🌱 Siempre explorando nuevas tecnologías y maneras de crear cosas geniales
+  💻 Software Development Engineering student at <b>Universidad Politécnica Salesiana</b><br>
+  🚀 Starting my journey in the world of programming<br>
+  🌱 Learning the fundamentals to become a great developer
 </p>
 
 ---
 
-### 🧠 Un poco sobre mí
-- 🎓 Actualmente estudiando para ser <b>Ingeniero en Desarrollo de Software</b>  
-- 💡 Me apasiona entender cómo funcionan las cosas por dentro (y romperlas un poco para aprender más 😅)  
-- 🧩 Interesado en desarrollo web, lógica de programación y bases de datos  
-- 🎯 Meta actual: dominar <b>algoritmos, estructuras de datos y frameworks modernos</b>
+### 🧠 About Me
+- 🎓 I’m currently in my **first year of university**, studying <b>Software Development Engineering</b>  
+- 💡 I love discovering how technology works and creating things from scratch  
+- 🧩 Learning the **fundamentals of programming**, logic, and computational thinking  
+- 🎯 Current goal: master **Java** and the foundations of structured programming  
 
 ---
 
-### ⚙️ Tecnologías que uso o estoy aprendiendo
+### ⚙️ Technologies I'm Learning
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
----
-
-### 🚧 Proyectos en construcción
-- 🧮 **Calculadora** – app educativa para practicar álgebra lineal  
-- 🌐 **Mi Portafolio Web** – sitio personal hecho con HTML, CSS y un toque de JavaScript  
+> 💬 I’m also exploring programming logic, algorithms, and methods in Java.
 
 ---
 
-### 🎧 Un poco más personal
-> “El código perfecto no existe, pero intentarlo es parte de la diversión.”
+### 🚧 Learning Projects
+- 🧮 **Programming Fundamentals Exercises** – practicing conditionals, loops, and functions in Java  
+- ⚙️ **Mini Java Programs** – small projects to understand code structure and logic flow  
 
-Cuando no estoy programando:
-- 🎮 Juego videojuegos   
+---
+
+### 🎧 A Bit More About Me
+> “Perfect code doesn’t exist, but learning from every mistake does.”
+
+When I’m not coding:
+- 🎮 I play video games  
+- ☕ I enjoy learning new things while drinking coffee  
+- 🎧 I listen to music and look for inspiration for future projects  
+
 ---
 
 <p align="center">
-  🌟 “Aprendiendo a programar, una línea de código a la vez.” 🌟
+  🌟 “Learning to code, one line at a time.” 🌟  
 </p>
-
